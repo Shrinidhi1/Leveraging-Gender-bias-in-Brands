@@ -1,11 +1,9 @@
 # Leveraging Gender bias in Brands
 
 ## 1. Introduction
-In the ever-evolving landscape of advertising, the strategic use of gender bias has become a subject of considerable interest and scrutiny. As brands navigate the intricacies of audience engagement, the question arises: to what extent do brands leverage gender bias to enhance appeal and foster engagement? This project delves into this compelling inquiry, seeking to analyze the deliberate incorporation of gender bias in advertising and its impact on audience perception and interaction.
+In the ever-evolving landscape of advertising, the strategic use of gender bias has become a subject of considerable interest and scrutiny. As brands navigate the intricacies of audience engagement, the question arises: to what extent do brands leverage gender bias to enhance appeal and foster engagement? 
 
-Our approach involves the meticulous extraction of YouTube transcripts from brands targeted at both men and women, accompanied by a thorough collection of pertinent data including views, likes, and comments. Through rigorous analysis, we will identify and select brands exhibiting the highest levels of gender bias, thereby allowing for an in-depth investigation into the correlation between bias and various indicators of audience response.
-
-The culmination of this project will be a detailed statistical analysis of the selected brands' advertisements, leading to the formulation of meaningful conclusions regarding the relationship between gender bias, appeal, and engagement. This endeavor not only contributes to our understanding of advertising dynamics but also provides valuable insights for brands aiming to navigate the delicate balance between effective communication and societal expectations.
+This project delves into this compelling inquiry, seeking to analyze the deliberate incorporation of gender bias in advertising and its impact on audience perception and interaction. This endeavor not only contributes to our understanding of advertising dynamics but also provides valuable insights for brands aiming to navigate the delicate balance between effective communication and societal expectations.
 
 ## 2. Problem Statement
 To analyze if brands leverage gender bias for appeal and engagement.
